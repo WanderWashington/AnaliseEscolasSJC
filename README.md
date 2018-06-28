@@ -1,5 +1,5 @@
 # DataAnalysisProject
-Project developed to Fatec
+Projeto Desenvolvido para FATEC - São José dos Campos Prof. Jessen Vidal
 
 
 Este trabalho foi desenvolvido para a disciplina de Inteligencia Artificial na FATEC de São José dos Campos.
