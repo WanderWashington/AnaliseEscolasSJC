@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WanderWashington/DataAnalysisProject/master)
 # DataAnalysisProject
 Projeto Desenvolvido para FATEC - São José dos Campos Prof. Jessen Vidal
 
