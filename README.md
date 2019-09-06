@@ -6,8 +6,12 @@ Este projeto foi desenvolvido para a disciplina de Inteligencia Artificial na FA
 Para que isso fosse possível foram utilizadas algumas bases de dados do Governo do Estado de São Paulo, sobre escolas estaduais
 e municipais, e alguns outros dados, extraídos da página da Prefeitura Municipal de São José dos Campos.
 
-Com o uso destes dados, algumas informações puderam ser geradas:
--Mapas sobre quantidade de escolas estaduais;
--Mapas sobre quantidade de escolas municipais;
--Gráficos de barra sobre regioes da cidade com mais escolas;
+Com o uso destes dados, algumas informações sobre escolas em São José dos Campos puderam ser geradas:
+*Mapas com marcadores de escolas estaduais;
+*Mapas com marcadores de escolas municipais;
+*Maps de calor sobre escolas municipais e escolas estaduais;
+*Gráfico de barra sobre regiões da cidade com mais escolas;
+*Gráfico de barra sobre escolas por bairro;
+*Gráfico de pizza da proporção de escolas municipais e estaduais;
+
 
