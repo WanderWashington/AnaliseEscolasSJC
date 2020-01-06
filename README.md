@@ -1,4 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WanderWashington/DataAnalysisProject/master)
+[![Updates](https://pyup.io/repos/github/WanderWashington/AnaliseEscolasSJC/shield.svg)](https://pyup.io/repos/github/WanderWashington/AnaliseEscolasSJC/)
+[![Python 3](https://pyup.io/repos/github/WanderWashington/AnaliseEscolasSJC/python-3-shield.svg)](https://pyup.io/repos/github/WanderWashington/AnaliseEscolasSJC/)
 # DataAnalysisProject
 Projeto Desenvolvido para FATEC - São José dos Campos Prof. Jessen Vidal
 
